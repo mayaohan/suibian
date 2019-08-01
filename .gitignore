@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+node_modules/
+debug.log
+db/
+xmocker/
+.DS_Store
